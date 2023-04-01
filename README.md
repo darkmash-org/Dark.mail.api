@@ -9,6 +9,7 @@ API for tracking email..
 
 
 
+API Url - https://emailtracker.darkmash.repl.co
 
 
 ######## DARKMASH ~ EMail Tracker API ~ V.1.0.0 ####################
