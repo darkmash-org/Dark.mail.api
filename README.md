@@ -11,17 +11,22 @@ API for tracking email..
 
 
 
-######## DARKMASH ~ EMail Tracker API ~ V.1.0.0 ####################<br>
+######## DARKMASH ~ EMail Tracker API ~ V.1.0.0 ####################
 
-### To use the service [GET - method] 
+
+
+### To use the service \[GET - method] 
+
 ```
     /service/get/ - > returns the data from tracking<br> 
 ```
+
 - With headers ~    token:token which u recive from generate
+
 ```
   /service/generate/  - > returns the tracking code and token <br> 
 ```
+
 ```
-/service/track/[tracker-code]/ - > returns a one pixel image and logs user info from req <br> 
+/service/track/[tracker-code]/ - > returns a one pixel image and logs user info from req  
 ```
-######################################################################
