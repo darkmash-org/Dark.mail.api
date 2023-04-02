@@ -25,7 +25,7 @@ API Url - https://emailtracker.darkmash.repl.co
 - With headers ~    token:token which u recive from generate
 
 ```
-  /service/generate/  - > returns the tracking code and token <br> 
+  /service/generate/  - > returns the tracking code and token which is separated by 'xxxx' <br> 
 ```
 
 ```
